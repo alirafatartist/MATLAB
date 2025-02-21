@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="02/10/25||17:52:39" using="Simscape Multibody Link Version 7.4" from="SolidWorks 32.0.1"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="Assem2" uid="Assem2" version="168">
+<AssemblyFile name="Assem2.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="RBT_LINK3-1" uid="RBT_LINK3-1" entityUid="RBT_LINK3*:*Default">
+<Transform>
+<Rotation>-0.75799043109955822 0 -0.65226567161050741 0 1 0 0.65226567161050741 0 -0.75799043109955822</Rotation>
+<Translation>-0.223368303068122 0.3121451335706838 0.12596614645846452</Translation>
+</Transform>
+</Instance>
+<Instance name="RBT_LINK5-1" uid="RBT_LINK5-1" entityUid="RBT_LINK5*:*Default">
+<Transform>
+<Rotation>0.75746087897322523 -0.028618372192622501 0.65225302268226659 0.043108822989662045 0.99905097225654937 -0.0062276973023550715 -0.6514557899086898 0.032835097171902916 0.75797573192560519</Rotation>
+<Translation>-0.045609699453652106 0.31214513357068402 0.0059833191829141118</Translation>
+</Transform>
+</Instance>
+<Instance name="User Library-Nema 23-1" uid="User Library-Nema 23-1" entityUid="User Library-Nema 23*:*Default">
+<Transform>
+<Rotation>3.5689260326823499e-16 -0.75799043109955855 -0.65226567161050675 -1 -3.8023171639105376e-16 -1.0529543962305427e-16 -1.6819916018672999e-16 0.65226567161050675 -0.75799043109955855</Rotation>
+<Translation>-0.20365690436544842 0.083963115289198781 0.10900410025620422</Translation>
+</Transform>
+</Instance>
+<Instance name="User Library-NEMA17-1" uid="User Library-NEMA17-1" entityUid="User Library-NEMA17*:*Default">
+<Transform>
+<Rotation>-0.65226567161050764 5.4268821612654953e-15 0.75799043109955799 0 1 -7.1595655282786823e-15 -0.75799043109955799 -4.6699388177421252e-15 -0.65226567161050764</Rotation>
+<Translation>-0.20856168206061507 0.31214513357068385 0.14317275034564514</Translation>
+</Transform>
+</Instance>
+<Instance name="RBT_BASE-1" uid="RBT_BASE-1" grounded="true" entityUid="RBT_BASE*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.17901963691645051 -0.032842884710801171 0.081206857791410125</Translation>
+</Transform>
+</Instance>
+<Instance name="RBT_LINK1-1" uid="RBT_LINK1-1" entityUid="RBT_LINK1*:*Default">
+<Transform>
+<Rotation>0.75799043109955855 0 0.65226567161050697 0 1 0 -0.65226567161050697 0 0.75799043109955855</Rotation>
+<Translation>-0.17901963691645048 0.057157115289198826 0.081206857791410139</Translation>
+</Transform>
+</Instance>
+<Instance name="RBT_LINK2-1" uid="RBT_LINK2-1" entityUid="RBT_LINK2*:*Default">
+<Transform>
+<Rotation>-0.75794502095964555 0.0082969175587370263 -0.65226567161050719 0.010945939708897545 0.99994009140742479 0 0.65222659529213611 -0.0071396607156321724 -0.75799043109955822</Rotation>
+<Translation>-0.23155034329597438 0.11215711528919882 0.11981417429059521</Translation>
+</Transform>
+</Instance>
+<Instance name="RBT_LINK4-1" uid="RBT_LINK4-1" entityUid="RBT_LINK4*:*Default">
+<Transform>
+<Rotation>0.75799043109955777 0.004062113163507514 0.65225302268226659 0 0.99998060770512454 -0.0062276973023550689 -0.65226567161050764 0.0047205349629697241 0.75797573192560508</Rotation>
+<Translation>-0.13671072514632293 0.27714581230100443 0.08408998105247209</Translation>
+</Transform>
+</Instance>
+<Instance name="RBT_LINK6-1" uid="RBT_LINK6-1" entityUid="RBT_LINK6*:*Default">
+<Transform>
+<Rotation>-0.59349578864244068 -0.27205838654376402 0.75746087897322545 -0.37033039139676754 0.92789925670212869 0.043108822989662232 -0.71457550340856513 -0.25492587888019719 -0.65145578990868958</Rotation>
+<Translation>-0.015311264294723471 0.31386948649027041 -0.020074912413433663</Translation>
+</Transform>
+</Instance>
+<Instance name="User Library-Nema 23-2" uid="User Library-Nema 23-2" entityUid="User Library-Nema 23*:*Default">
+<Transform>
+<Rotation>-0.65226567161050686 0.75799043109955844 0 0 0 -1 -0.75799043109955844 -0.65226567161050686 0</Rotation>
+<Translation>-0.19708519535732649 0.067157115289198821 0.059556905869539878</Translation>
+</Transform>
+</Instance>
+<Instance name="User Library-NEMA17-3" uid="User Library-NEMA17-3" entityUid="User Library-NEMA17*:*Default">
+<Transform>
+<Rotation>0.75799043109955822 1.3115228622725573e-15 0.65226567161050741 0 1 -2.0107188211120772e-15 -0.65226567161050741 1.524105626034738e-15 0.75799043109955822</Rotation>
+<Translation>-0.16650917321403294 0.31214513357068385 0.11001969380479126</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Concentric name="Concentric1">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>RBT_BASE-1</Uid>
+</InstancePath>
+<Position>0 0.086999999999999994 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>RBT_LINK1-1</Uid>
+</InstancePath>
+<Position>0 -0.0030000000000000027 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>RBT_BASE-1</Uid>
+</InstancePath>
+<Position>0 0.089999999999999997 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>RBT_LINK1-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident4">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>RBT_LINK1-1</Uid>
+</InstancePath>
+<Position>-0.065000000000000058 0.054999999999999993 -0.0050000000000000044</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>RBT_LINK2-1</Uid>
+</InstancePath>
+<Position>-0.035253141681223621 0.10000000000000001 0</Position>
+<Axis>2.2204460492503131e-16 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric2">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>RBT_LINK1-1</Uid>
+</InstancePath>
+<Position>-0.065000000000000058 0.054999999999999993 0.0050000000000000044</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>RBT_LINK2-1</Uid>
+</InstancePath>
+<Position>0 0 0.019999999999999976</Position>
+<Axis>-2.2204460492503131e-16 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident5">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>RBT_LINK2-1</Uid>
+</InstancePath>
+<Position>-0.035253141681223621 0.10000000000000001 0</Position>
+<Axis>2.2204460492503131e-16 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>RBT_LINK3-1</Uid>
+</InstancePath>
+<Position>0 0 0.010000000000000023</Position>
+<Axis>1.1102230246251565e-16 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric3">
+<ConstraintGeometry geomType="cone">
+<InstancePath>
+<Uid>RBT_LINK2-1</Uid>
+</InstancePath>
+<Position>0 0.20000000000000001 0.020000000000000018</Position>
+<Axis>-2.2204460492503131e-16 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>RBT_LINK3-1</Uid>
+</InstancePath>
+<Position>0 0 0.010000000000000023</Position>
+<Axis>-1.1102230246251565e-16 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident6">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>RBT_LINK3-1</Uid>
+</InstancePath>
+<Position>-0.080000000000000016 -0.030000000000000027 -0.060000000000000012</Position>
+<Axis>-1.0000000000000002 0 1.1102230246251565e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>RBT_LINK4-1</Uid>
+</InstancePath>
+<Position>-0.013000000000000012 0.035000000000000031 0</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric4">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>RBT_LINK3-1</Uid>
+</InstancePath>
+<Position>-0.070000000000000007 0 -0.025000000000000008</Position>
+<Axis>-1.0000000000000002 0 1.1102230246251565e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>RBT_LINK4-1</Uid>
+</InstancePath>
+<Position>-0.010000000000000009 0.034999999999999976 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident7">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>RBT_LINK4-1</Uid>
+</InstancePath>
+<Position>0.11999999999999998 0.035000000000000031 -0.022000000000000006</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>RBT_LINK5-1</Uid>
+</InstancePath>
+<Position>0 0 -0.022000000000000006</Position>
+<Axis>1.6653345369377348e-16 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric5">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>RBT_LINK4-1</Uid>
+</InstancePath>
+<Position>0.11999999999999998 0.035000000000000031 -0.022000000000000006</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>RBT_LINK5-1</Uid>
+</InstancePath>
+<Position>0 0 -0.022000000000000006</Position>
+<Axis>1.6653345369377348e-16 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident8">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>RBT_LINK5-1</Uid>
+</InstancePath>
+<Position>0.043000000000000003 0 0</Position>
+<Axis>1.0000000000000002 0 -1.1102230246251565e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>RBT_LINK6-1</Uid>
+</InstancePath>
+<Position>0 0 0.0029999999999999957</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric6">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>RBT_LINK5-1</Uid>
+</InstancePath>
+<Position>0.043000000000000003 0 0</Position>
+<Axis>-1.0000000000000002 0 1.1102230246251565e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>RBT_LINK6-1</Uid>
+</InstancePath>
+<Position>0 0 0.0029999999999999957</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric7">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>RBT_LINK3-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1.1102230246251565e-16 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>User Library-NEMA17-1</Uid>
+</InstancePath>
+<Position>0.032500000000000001 0 0</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric8">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>RBT_LINK3-1</Uid>
+</InstancePath>
+<Position>0.015500000000000014 0.015500000000000014 0</Position>
+<Axis>-1.1102230246251565e-16 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>User Library-NEMA17-1</Uid>
+</InstancePath>
+<Position>-0.016500000000000015 0.015500000000000014 -0.015500000000000014</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric9">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>RBT_LINK3-1</Uid>
+</InstancePath>
+<Position>-0.070000000000000007 0 -0.025000000000000008</Position>
+<Axis>1.0000000000000002 0 -1.1102230246251565e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>User Library-NEMA17-3</Uid>
+</InstancePath>
+<Position>0.032500000000000029 0 0</Position>
+<Axis>1.0000000000000002 0 -1.1102230246251565e-16</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric10">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>RBT_LINK3-1</Uid>
+</InstancePath>
+<Position>-0.070000000000000007 0.015500000000000014 -0.040499999999999994</Position>
+<Axis>1.0000000000000002 0 -1.1102230246251565e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>User Library-NEMA17-3</Uid>
+</InstancePath>
+<Position>-0.016500000000000015 0.015500000000000014 0.0155</Position>
+<Axis>-1.0000000000000002 0 1.1102230246251565e-16</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident9">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>RBT_LINK3-1</Uid>
+</InstancePath>
+<Position>-0.070000000000000007 0 -0.025000000000000008</Position>
+<Axis>1.0000000000000002 0 -1.1102230246251565e-16</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>User Library-NEMA17-3</Uid>
+</InstancePath>
+<Position>0.016500000000000015 -0.019500000000000017 -0.019500000000000003</Position>
+<Axis>1.0000000000000002 0 -1.1102230246251565e-16</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric11">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>RBT_LINK1-1</Uid>
+</InstancePath>
+<Position>-0.065000000000000058 0.054999999999999993 0.0050000000000000044</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>User Library-Nema 23-1</Uid>
+</InstancePath>
+<Position>-0.028193999999999997 0.028193999999999969 0.025323999999999985</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric12">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>RBT_LINK1-1</Uid>
+</InstancePath>
+<Position>-0.041378000000000026 0.078622000000000011 0.0050000000000000183</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>User Library-Nema 23-1</Uid>
+</InstancePath>
+<Position>-0.051816000000000029 0.0045719999999999927 -0.0090170000000000389</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident10">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>RBT_LINK1-1</Uid>
+</InstancePath>
+<Position>-0.065000000000000058 0.054999999999999993 0.0050000000000000044</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>User Library-Nema 23-1</Uid>
+</InstancePath>
+<Position>-0.051816000000000001 0.051816000000000001 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric13">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>RBT_LINK1-1</Uid>
+</InstancePath>
+<Position>0.028622000000000036 0.009999999999999995 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>User Library-Nema 23-2</Uid>
+</InstancePath>
+<Position>-0.028194000000000018 0.028193999999999997 0.025323999999999999</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric14">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>RBT_LINK1-1</Uid>
+</InstancePath>
+<Position>0.052244000000000013 0.009999999999999995 0.023622000000000018</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>User Library-Nema 23-2</Uid>
+</InstancePath>
+<Position>-0.051816000000000008 0.051815999999999973 -0.0090169999999999972</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident11">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>RBT_LINK1-1</Uid>
+</InstancePath>
+<Position>0 0.009999999999999995 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>User Library-Nema 23-2</Uid>
+</InstancePath>
+<Position>-0.051816000000000008 0.051816000000000001 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+</Assemblies>
+<Parts>
+<Part name="RBT_BASE" uid="RBT_BASE*:*Default" version="121">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="RBT_BASE.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>1.6162158563948519</Mass>
+<CenterOfMass>-3.0664753113663964e-09 0.040158517542613681 0.0053974789441927273</CenterOfMass>
+<Inertia>0.0041024798442645767 0.0053684059959395077 0.0034746571781031793 -8.585198187858678e-05 3.3026350196769319e-10 4.757787713437248e-10</Inertia>
+</MassProperties>
+<GeometryFile name="RBT_BASE_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.50196078431372548" g="0.50196078431372548" b="0.50196078431372548" a="1"/>
+<Diffuse r="0.50196078431372548" g="0.50196078431372548" b="0.50196078431372548" a="1"/>
+<Specular r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="RBT_LINK1" uid="RBT_LINK1*:*Default" version="138">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="RBT_LINK1.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.25100023219369311</Mass>
+<CenterOfMass>-0.015110425768067381 0.014346398115159274 -1.6981004619277109e-06</CenterOfMass>
+<Inertia>0.00035653458058138401 0.00066491216469611464 0.00056364341640059636 1.7327526127779436e-08 -2.1264115076860767e-08 0.00013235610181988521</Inertia>
+</MassProperties>
+<GeometryFile name="RBT_LINK1_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="0" a="1"/>
+<Diffuse r="1" g="1" b="0" a="1"/>
+<Specular r="0.5" g="0.5" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="RBT_LINK2" uid="RBT_LINK2*:*Default" version="202">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="RBT_LINK2.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.38488139227412999</Mass>
+<CenterOfMass>0 0.086109124648370783 0.0095672408981541546</CenterOfMass>
+<Inertia>0.0021240585090262949 0.0001939490466875504 0.0022930409736541964 1.0976113937522889e-06 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="RBT_LINK2_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="0" a="1"/>
+<Diffuse r="1" g="1" b="0" a="1"/>
+<Specular r="0.5" g="0.5" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="RBT_LINK3" uid="RBT_LINK3*:*Default" version="135">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="RBT_LINK3.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.10477711577471392</Mass>
+<CenterOfMass>-0.038716861739036747 -0.011794940494761394 -0.016961080613997502</CenterOfMass>
+<Inertia>7.3618485274767119e-05 0.00015109934862704775 0.00013643440504816664 -9.6771625323644498e-06 -3.2601445565414298e-05 -1.7500890773189321e-06</Inertia>
+</MassProperties>
+<GeometryFile name="RBT_LINK3_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="0" a="1"/>
+<Diffuse r="1" g="1" b="0" a="1"/>
+<Specular r="0.5" g="0.5" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="RBT_LINK4" uid="RBT_LINK4*:*Default" version="126">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="RBT_LINK4.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.39507222279289161</Mass>
+<CenterOfMass>0.053194493821377878 0.035000000000000003 0</CenterOfMass>
+<Inertia>0.00046830105426903177 0.001161282946207948 0.000969160706181287 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="RBT_LINK4_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="0" a="1"/>
+<Diffuse r="1" g="1" b="0" a="1"/>
+<Specular r="0.5" g="0.5" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="RBT_LINK5" uid="RBT_LINK5*:*Default" version="119">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="RBT_LINK5.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.11702019240430292</Mass>
+<CenterOfMass>0.006817632517048324 2.5655645641349757e-08 9.154256464956784e-09</CenterOfMass>
+<Inertia>3.716636234572015e-05 5.5773256175633782e-05 5.3775075717386326e-05 -9.1704947748173668e-11 -1.3109515096627525e-11 -1.145208554720234e-10</Inertia>
+</MassProperties>
+<GeometryFile name="RBT_LINK5_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="1" b="0" a="1"/>
+<Diffuse r="1" g="1" b="0" a="1"/>
+<Specular r="0.5" g="0.5" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="RBT_LINK6" uid="RBT_LINK6*:*Default" version="116">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="RBT_LINK6.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.014011104937558841</Mass>
+<CenterOfMass>0 0 0.0080725641691146658</CenterOfMass>
+<Inertia>1.7745514803483678e-06 1.7745514803483674e-06 3.1630947991825107e-06 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="RBT_LINK6_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.50196078431372548" g="0.50196078431372548" b="0.50196078431372548" a="1"/>
+<Diffuse r="0.50196078431372548" g="0.50196078431372548" b="0.50196078431372548" a="1"/>
+<Specular r="0.25098039215686274" g="0.25098039215686274" b="0.25098039215686274" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="User Library-NEMA17" uid="User Library-NEMA17*:*Default" version="118">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="User Library-NEMA17.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.04816169090016327</Mass>
+<CenterOfMass>0.00052039077169269339 -3.2884432225690603e-08 -4.7283852667579681e-08</CenterOfMass>
+<Inertia>1.125781298952309e-05 1.0259632436357935e-05 1.0259601631434702e-05 -2.4581062222554453e-11 -3.741140576808935e-11 -2.5927196665644499e-11</Inertia>
+</MassProperties>
+<GeometryFile name="User Library-NEMA17_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="User Library-Nema 23" uid="User Library-Nema 23*:*Default" version="616">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="User Library-Nema 23.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.1583835286469274</Mass>
+<CenterOfMass>-0.028194 0.028100009228818317 -0.026670321692753893</CenterOfMass>
+<Inertia>7.8274835038763223e-05 7.7839789309877574e-05 7.2789389671462101e-05 -3.7153211532186785e-07 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="User Library-Nema 23_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Diffuse r="0.75294117647058822" g="0.75294117647058822" b="0.75294117647058822" a="1"/>
+<Specular r="0.37647058823529411" g="0.37647058823529411" b="0.37647058823529411" a="1"/>
+<Emissive r="0.15811764705882353" g="0.15811764705882353" b="0.15811764705882353" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
